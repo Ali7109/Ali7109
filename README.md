@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ali7109
-- 👀 I’m a Front End Developer. 
-- 🌱 I’m currently learning Computer Networks and reviewing React principles.
+- 👋 Hi, I’m Ali Hassan Amin, a computer science student.
+- 👀 I’m an aspiring Front End Developer, UI/UX / Graphics Designer ...
+- 🌱 Currently learning Algorithm Analysis and DBMS'.
 - 📫 How to reach me : 
             - Email : aliamin745@gmail.com
-            - Portfolio Website : (Under Devlopment)
+            - Portfolio Website : aliaminportfolio.netlify.app
