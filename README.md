@@ -1,13 +1,23 @@
-- 👋 Hi, I’m Ali Hassan Amin, a computer science student.
-- 👀 I’m an aspiring Front End / Java Dev / React Web Dev / UI-UX / Graphics Designer / ...
-- 🌱 Currently learning Algorithm Analysis and DBMS'...
+
+
+<h2> Hi, I'm Ali Hassan! </h2>
+<p><em>Software Developer - Computer Science Major - Creative Designer
+</em></p>
+
+```javascript
+const Ali = {
+  Skillset: [Java, React.js, Node.js, SQL, HTML, CSS, Python],
+  techCommunities: {
+                    Google Student Developer Club,
+                    University Computer Science Club, 
+                    Physics Astronomy Club
+                      },
+}
+```
+<em><b>Feel free to contact me via my Portfolio or Linkedin! </b> :)</em>
+
+
 - 📫 How to reach me : 
             - Email : aliamin745@gmail.com
             - Portfolio Website : aliaminportfolio.netlify.app
-- SKILLSET 
-            JAVA
-            JavaScript (React Framework, ES6)
-            HTML5  -  CSS3
-            UI/UX Design (Figma)
-            Version Control System (Git)
-            Shell (Bash)
+---
