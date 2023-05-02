@@ -19,5 +19,5 @@ const Ali = {
 
 - 📫 How to reach me : 
             - Email : aliamin745@gmail.com
-            - Portfolio Website : aliaminportfolio.netlify.app
+            - Portfolio Website : alisportfolio.netlify.app
 ---
