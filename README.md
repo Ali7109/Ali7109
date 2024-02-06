@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 A passionate Software Engineering enthusiast and algorithm aficionado.<br>🌱 Currently immersing myself in the intricacies of networking principles.<br>⚡ Currently exploring OSes; my go-to setup is a Dual boot of Windows/Debian 10.<br><br>Need my help on your repo or want to contribute to mine? Feel free to reach out!
+<br>🔭 A passionate Software Engineering enthusiast and algorithm aficionado.<br>🌱 Currently immersing myself in the intricacies of networking principles.<br>⚡ Exploring OSes; my go-to setup is a Dual boot of Windows/Debian 10.<br><br>Need my help on your repo or want to contribute to mine? Feel free to reach out!
 
 
 ## 🌐 Socials:
